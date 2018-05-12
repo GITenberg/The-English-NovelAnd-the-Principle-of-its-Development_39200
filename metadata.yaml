@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/299
     wikipedia: http://en.wikipedia.org/wiki/Sidney_Lanier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39200#The-English-NovelAnd-the-Principle-of-its-Development
 gutenberg_issued: '2012-03-19'
 gutenberg_type: Text
 identifiers:
